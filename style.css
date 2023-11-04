@@ -16,3 +16,9 @@ body {
     font-size: 1.5em;
     font-style:oblique;
   }
+
+  .title {
+    color: #999999;
+    font-weight: bold;
+  }
+  
