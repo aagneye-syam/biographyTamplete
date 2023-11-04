@@ -3,3 +3,16 @@ body {
     width:90%;
     margin: auto;
   }
+
+  h1 {
+    color: #f85dd9;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 10px dotted #96029e;
+    line-height: 1.5;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    font-style:oblique;
+  }
