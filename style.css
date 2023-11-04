@@ -21,4 +21,27 @@ body {
     color: #999999;
     font-weight: bold;
   }
+
+  a:link, a:visited {
+    color: #fb6542;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+  .contact{
+    border: 5px solid #96029e;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    background-color: rgb(229, 229, 229);
+  }
+  .email:link{
+    color: #098524;
+    text-decoration: none;
+  }
+  li{
+    line-height: 1.8;
+  }
   
